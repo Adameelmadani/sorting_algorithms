@@ -1,8 +1,6 @@
 # Sorting Algorithms
 
 ![C Language](https://img.shields.io/badge/Language-C-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-[![Documentation Status](https://readthedocs.org/projects/sorting-algorithms-c/badge/?version=latest)](https://sorting-algorithms-c.readthedocs.io/en/latest/?badge=latest)
 
 
 A comprehensive collection of sorting algorithms implemented in C. This repository provides efficient implementations of classic and advanced sorting techniques with detailed explanations and complexity analysis.
@@ -18,7 +16,6 @@ A comprehensive collection of sorting algorithms implemented in C. This reposito
 - [Testing](#testing)
 - [Contributing](#contributing)
 - [Author](#author)
-- [License](#license)
 
 ## Overview
 
@@ -157,7 +154,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - [Adameelmadani](https://github.com/Adameelmadani)
 - [Biyuktul](https://github.com/Biyuktul)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
